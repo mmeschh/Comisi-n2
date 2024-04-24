@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Raleway:ital,wght@0,100..900;1,100..900&family=Sedgwick+Ave+Display&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-#miColor{
-    background-color: rgb(200, 200, 200);
+body{
+    background-color: rgb(0, 0, 0);
 }
 p{
     font-family: Raleway, ExtraLight;
     font-weight: 400;
     font-size: small;
     a:link{
-    color: #000000;
+    color: #ffffff;
     }
     margin-left: 25%;
 }
@@ -20,7 +20,7 @@ a{
     font-weight: 400;
     font-size: small;
     a:link{
-    color: #000000;
+    color: #ffffff;
     }
 }
 a:hover {
@@ -31,7 +31,7 @@ ul{
     font-weight: 400;
     font-size: small;
     a:link{
-    color: #000000;
+    color: #ffffff;
     }
     margin-left: 25%;
 }
@@ -48,6 +48,7 @@ h2{
     font-weight: 600;
     font-family: Raleway, Medium;
     font-size: x-large;
+    color: #ffffff
 }
 img{
     width: 10%;
@@ -62,6 +63,7 @@ h3{
     font-size: large;
     margin-left: 27%;
     margin-right: 27%;
+    color: #ffffff
 }
 h4{
     text-align: justify;
@@ -70,4 +72,5 @@ h4{
     font-size: medium;
     margin-left: 27%;
     margin-right: 27%;
+    color: #ffffff
 }
